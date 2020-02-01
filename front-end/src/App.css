@@ -6,3 +6,7 @@
   justify-content: center;
   flex-direction: column;
 }
+
+.output-data {
+  margin-top: 20px;
+}
